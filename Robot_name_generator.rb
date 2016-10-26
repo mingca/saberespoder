@@ -32,6 +32,5 @@ while(input = gets) do
   	when 'l'
   		puts $list
   	else 
-  		puts input
   	end
 end
